@@ -1,2 +1,2 @@
 # CST2555GYMBOOKINGSYSTEMCOURSEWORK
-This is the repository that I'm using for creating booking system for the gym with the help of JAVAFX and JDBC
+This is the repository for terminal based gym booking system which I developed as a part of the first coursework from CST2555 Web Applications and Databases Module which is part of my Computer Science Batchelor Degree Program in the Second Year at Middlesex University. This project is a work in progress and JavaFx GUI will be implemented so that users of this system will be able to manage everything more conveniently from JavaFx window rather than doing this manually from the console based system. 
